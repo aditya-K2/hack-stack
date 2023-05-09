@@ -8,3 +8,4 @@ Build fast and furious APIs with **MySQL** and **FastAPI** - the ultimate hackat
 - Handle auth
 - Implement custom decorators *(if possible)*
 - Protected routes etc.
+- database management tools
